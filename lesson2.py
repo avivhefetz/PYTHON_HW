@@ -1,0 +1,5 @@
+A = input("please enter your name: ")
+input("What is your position in the family?")
+input("How old are you?")
+input("What is your favorite dish?")
+print("hello,",A+  ", thank you for joining me")
